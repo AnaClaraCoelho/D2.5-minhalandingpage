@@ -1,5 +1,5 @@
 body {
-  background-color: #2e2d4c;
+  font-family: "Lora", serif;
 }
 
 .background {
@@ -8,6 +8,7 @@ body {
   background-attachment: fixed;
 }
 .conteudo {
+  line-height: 3rem;
   width: 72%;
   background-color: #ffffff;
   margin: 120px auto;
@@ -20,6 +21,10 @@ body {
   color: #fff;
   margin: auto;
   padding: 30px;
+}
+
+.logo img {
+  width: 220px;
 }
 
 .navigation li {
@@ -45,10 +50,11 @@ body {
   text-decoration: underline;
 }
 
-.conteudo img {
+.avatar {
   float: left;
   width: 140px;
   padding: 20px;
+  margin-right: 20px;
 }
 
 .fonte--media {
@@ -60,6 +66,26 @@ body {
   margin-top: 50px;
 }
 
-.logo img {
-  width: 220px;
+.titulo--fonte {
+  font-family: "Exo 2", sans-serif;
+}
+
+.habilidades label {
+  width: 280px;
+  display: inline-block;
+}
+
+.habilidades progress {
+  accent-color: #2e2d4c;
+}
+
+.fotos img {
+  border-radius: 8px;
+  width: 450px;
+  height: 240px;
+  filter: grayscale(0.4);
+}
+
+.fotos img:hover {
+  filter: none;
 }
