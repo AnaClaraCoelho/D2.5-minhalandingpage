@@ -218,4 +218,13 @@ ul.experiencia {
   .fonte--pequena {
     font-size: 1.1rem;
   }
+
+  .navigation li {
+    width: 130px;
+    font-size: 1.1rem;
+  }
+
+  .avatar {
+    width: 110px;
+  }
 }
