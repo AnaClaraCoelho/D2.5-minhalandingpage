@@ -2,4 +2,4 @@
 Página pessoal -2.5
 
 ## Endereço da publicação
-### https://anaclaracoelho.github.io/D2.5-minhalandingpage/
+ https://anaclaracoelho.github.io/D2.5-minhalandingpage/
